@@ -6,5 +6,7 @@ blue
 Green
 Yellow
 unicon
+Indigo
 
 these are the colors of Rainbow and the unicorn
+Adding indigo to Rainbow colors
