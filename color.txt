@@ -5,5 +5,6 @@ violet
 blue
 Green
 Yellow
+unicon
 
-these are the colors of Rainbow
+these are the colors of Rainbow and the unicorn
