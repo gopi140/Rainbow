@@ -4,5 +4,6 @@ red
 violet
 blue
 Green
+Yellow
 
 these are the colors of Rainbow
