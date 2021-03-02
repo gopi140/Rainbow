@@ -6,6 +6,4 @@ blue
 Green
 Yellow
 unicon
-pony
 
-these are the colors of Rainbow and the unicorn and pony
