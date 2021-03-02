@@ -6,7 +6,4 @@ blue
 Green
 Yellow
 unicon
-pony
-
-Adding pony to the Rainbow colours
 
